@@ -40,7 +40,8 @@ export default function PrivicyPolicy () {
                         <h1>We automatically log ‘traffic/session’ information, such as the IP address that your device uses and your browser or operating system identifiers. We collect session durations and additional activity and usage information.</h1>
                         <p>Examples of the information we collect and analyze include the Internet Protocol (IP) address used by your device to connect your device to the Internet and automatically sent by your browser to our Services; login details; e-mail address; password; device and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform.</p>
                         <p>Other examples of usage information that we collect are your activity events, non-personal usage statistics (for example, time of usage, number of clicks on each link, etc.), crash reports, information regarding your browsing history and web activities, and other information regarding the use of the Service.</p>
-                        <p></p>
+                        <h1 className="font-bold">How We Use Personal Information</h1>
+                        <p>We collect and receive Personal Information to provide the Website, to enable the Website’s tools and features, to enhance users’ experience with the Website, to analyze the functionality of the Website and users’ activities, to provide support, to maintain the Website, and to continue making it better.</p>
                     </div>
                 </div>
             </div>
