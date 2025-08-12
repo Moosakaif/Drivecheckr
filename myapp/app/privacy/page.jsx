@@ -1,8 +1,8 @@
 export default function PrivicyPolicy () {
     return (
         <div className="mt-20 ml-15 text-4xl text-">
-            <h1>PRIVACY POLICY</h1>
-            <div className="">
+            <h1 className="text-5xl">PRIVACY POLICY</h1>
+            <div className="text--2xl mt-4">
                 <p className="mt-4 text-lg ">
                     We at Drive Chackr. and our affiliates (“we”, “our”, or “us”) respect and understand the importance of maintaining your privacy. This policy (“policy”) explains our privacy practices for processing Personal Information related to you when you visit or use our website (“Website”).
                     <br />
@@ -16,7 +16,7 @@ export default function PrivicyPolicy () {
                     <br />
                     <br />
                     <br />
-                    For further information, please contact us: info@drivecheckr.com
+                    For further information, please contact us: <link rel="stylesheet" href="info@drivecheckr.com" />info@drivecheckr.com
                 </p>
             </div>
         </div> 
