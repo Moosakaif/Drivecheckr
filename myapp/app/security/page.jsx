@@ -2,7 +2,7 @@ import React from 'react'
 
 const security = () => {
   return (
-    <div className="mt-20 ml-15">
+    <div className="mt-20 ml-15 ">
         <h1 className="text-5xl mb-15 text-blue-700">Security Policy</h1>
         <div className='text-2xl'>
             <p className='text-gray-700 '><strong className='text-black'>Last Updated</strong>: [13-Aug-2025]</p>

@@ -1,6 +1,6 @@
 export default function PrivicyPolicy () {
     return (
-        <div className="mt-20 ml-15">
+        <div className="mt-20 ml-15 ">
             <h1 className="text-5xl mb-15 text-blue-700">PRIVACY POLICY</h1>
             <div className="text-2xl">
                 <p className="text-gray-700 mt-4">
