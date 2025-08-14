@@ -134,6 +134,7 @@ export default function Home() {
 </select> */}
 
                 <button
+                  href="https://www.paypal.com/ncp/payment/HS3RZNBJDAGLQ"
                   type="submit"
                   className="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700"
                 >
@@ -141,7 +142,7 @@ export default function Home() {
                 </button>
               </form>
 
-              {/* 🎯 Pioneer Payment Button (Shown after email sent) */}
+              {/* 🎯 Pioneer Payment Button (Shown after email sent)
               {showPayment && (
                 <div className="mt-6 text-center">
                   <a
@@ -153,7 +154,7 @@ export default function Home() {
                     Proceed to Payment
                   </a>
                 </div>
-              )}
+              )} */}
             </div>
           </div>
 
