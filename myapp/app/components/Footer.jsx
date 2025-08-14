@@ -6,11 +6,11 @@ export default function FooterNavbar() {
     <footer className="bg-blue-600 text-white text-center py-6">
       {/* Top links row */}
       <div className="flex flex-wrap justify-center space-x-6 text-sm mb-4">
-        <Link href="/privac" className="hover:underline">Privacy</Link>
-        <Link href="/term" className="hover:underline">Terms & Conditions</Link>
-        <Link href="/securit" className="hover:underline">Security</Link>
-        <Link href="/remove-dat" className="hover:underline">Remove Your Data</Link>
-        <Link href="/refun" className="hover:underline">Refund Policy</Link>
+        <Link href="/privacy" className="hover:underline">Privacy</Link>
+        <Link href="/terms" className="hover:underline">Terms & Conditions</Link>
+        <Link href="/security" className="hover:underline">Security</Link>
+        <Link href="/remove-data" className="hover:underline">Remove Your Data</Link>
+        <Link href="/refund" className="hover:underline">Refund Policy</Link>
       </div>
 
       {/* Horizontal line */}

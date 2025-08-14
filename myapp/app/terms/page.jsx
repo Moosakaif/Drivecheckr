@@ -16,7 +16,7 @@ const terms = () => {
           <h1 className='mt-5 text-gray-700'>2.1 <strong>Booking Confirmation</strong></h1>
           <p className='mt-8 text-gray-700'>All bookings must be confirmed via our website, email, or phone. Payment terms will be provided at the time of booking.</p>
           <h1 className='mt-5 text-gray-700'>2.2 <strong>Cancellation Policy</strong></h1>
-          <p className='mt-8 text-gray-700'>If you wish to cancel or reschedule, please notify us at least [X] hours/days in advance. Cancellations made after this period may be subject to a fee.</p>
+          <p className='mt-8 text-gray-700'>If you wish to cancel or reschedule, please notify us at least [24] hours/days in advance. Cancellations made after this period may be subject to a fee.</p>
           <h1 className='mt-5 text-gray-700'>2.3 <strong>Non-Refundable Fees</strong></h1>
           <p className='mt-8 text-gray-700'>Inspection fees are generally non-refundable once the inspection has been completed.</p>
           <h1 className='mt-8 text-3xl'><strong>3. Reports and Liability</strong></h1>
