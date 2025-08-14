@@ -53,6 +53,7 @@ export default function PrivicyPolicy () {
                             <li>Operations service providers that, for example, host and back up content, provide analytics related to the use of the Website, authentication, and secure logins, log activities, manage our production and development activities, operate our systems, networks, and databases, and enable cyber security and fraud detection and prevention.</li>
                             <li>Communications and marketing service providers, for example, we will use a service provider to manage our email message transmission or to enrich user data in order to improve your user experience.</li>
                             <li>Our affiliates within the UVeye group.</li>
+                            <br /><br /><br />
                             
                         </ul>
                     </div>

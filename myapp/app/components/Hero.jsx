@@ -34,7 +34,7 @@ function Hero() {
         type="text"
         name="email"
         required
-        placeholder="Enter Reg number"
+        placeholder="Enter Reg/VIN number"
         value={email}
         onChange={(e) => setEmail(e.target.value)}
         className="p-3 rounded border-1 text-white w-full md:w-2/3"
