@@ -21,7 +21,17 @@ const terms = () => {
           <p className='mt-8 text-gray-700'>Inspection fees are generally non-refundable once the inspection has been completed.</p>
           <h1 className='mt-8'><strong>3. Reports and Liability</strong></h1>
           <h2 className='mt-5 text-gray-700'>3.1 <strong>Report Accuracy</strong></h2>
-          
+          <p className='mt-8 text-gray-700'>We aim to provide accurate, honest, and unbiased reports. However, inspections are limited to accessible and visible components and do not include dismantling or invasive testing unless agreed upon in writing.</p>
+          <h1 className='mt-5 text-gray-700'>3.2 <strong>Limitation of Liability</strong></h1>
+          <p className='mt-5 text-gray-700'>We are not liable for:</p>
+          <ul className='list-disc ml-10 mt-4 text-gray-700'>
+            <li className='mt-8 text-gray-700'>Hidden defects not visible at the time of inspection</li>
+            <li className='mt-2 text-gray-700'>Issues that develop after the inspection date</li>
+            <li className='mt-2 text-gray-700'>Loss, damages, or costs arising from the purchase or sale of the inspected vehicle</li>
+          </ul>
+          <h1 className='mt-8 text-gray-700'>3.3 <strong>Third-Party Use</strong></h1>
+          <p className='mt-5 text-gray-700'>Our reports are prepared for the customer who booked the inspection and should not be relied upon by third parties without written consent.</p>
+          <h1 className='mt-5 text-gray-700'></h1>
         </div>
     </div>
   )
