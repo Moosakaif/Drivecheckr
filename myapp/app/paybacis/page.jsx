@@ -13,10 +13,10 @@ export default function Home() {
 
     emailjs
       .sendForm(
-        'service_uvlb4sv',     // ✅ Your EmailJS Service ID
-        'template_j0iwhrm',    // ✅ Your EmailJS Template ID
+        'service_9wi60w9',     // ✅ Your EmailJS Service ID
+        'template_oywh2qo',    // ✅ Your EmailJS Template ID
         formRef.current,
-        'hdv6F9Qvh4e3mhvvd'    // ✅ Your EmailJS Public Key
+        'xRWeTf7zYoaehtJeF'    // ✅ Your EmailJS Public Key
       )
       .then(
         () => {
@@ -63,7 +63,7 @@ export default function Home() {
                 <input
                   name="vin"
                   type="text"
-                  placeholder="VIN / Registration"
+                  placeholder="Enter VIN Number"
                   required
                   className="w-full p-3 border rounded"
                 />
