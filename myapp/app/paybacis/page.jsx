@@ -17,7 +17,7 @@ export default function Home() {
         'service_uvlb4sv',
         'template_j0iwhrm',
         formRef.current,
-        'f-OZlQIt2bm7DnrmH'
+        'hdv6F9Qvh4e3mhvvd'
       )
       .then(
         (result) => {
@@ -134,7 +134,7 @@ export default function Home() {
 </select> */}
 
                 <button
-                  href="https://www.paypal.com/ncp/payment/HS3RZNBJDAGLQ"
+                  // href="https://www.paypal.com/ncp/payment/HS3RZNBJDAGLQ"
                   type="submit"
                   className="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700"
                 >
@@ -142,11 +142,11 @@ export default function Home() {
                 </button>
               </form>
 
-              {/* 🎯 Pioneer Payment Button (Shown after email sent)
+              {/* 🎯 Pioneer Payment Button (Shown after email sent) */}
               {showPayment && (
                 <div className="mt-6 text-center">
                   <a
-                    href="https://www.paypal.com/ncp/payment/4V9FDNPUWWQ6U" // 🔁 Replace with your actual link
+                    href="https://www.paypal.com/ncp/payment/HS3RZNBJDAGLQ" // 🔁 Replace with your actual link
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700"
@@ -154,7 +154,7 @@ export default function Home() {
                     Proceed to Payment
                   </a>
                 </div>
-              )} */}
+              )}
             </div>
           </div>
 
