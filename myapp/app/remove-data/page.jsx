@@ -2,7 +2,7 @@ import React from 'react'
 
 const removeYourData = () => {
   return (
-    <div className="mt-20 ml-15 ">
+    <div className="mt-20 ml-15">
         <h1 className="text-5xl mb-15 text-blue-700">Request to Remove Your Data</h1>
         <div className='text-2xl text-gray-700'>
             <p className='text-gray-700'><strong className='font-bold'>Last Updated</strong>: [13-Aug-2025]</p>
