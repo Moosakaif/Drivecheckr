@@ -32,7 +32,7 @@ const refund = () => {
             <ul className='list-disc ml-10 mt-4 text-gray-700'>
                 <li className='mt-3 text-gray-700'>Contact us at [info@drivecheckr.com] within [24 hours] of the scheduled inspection.</li>
                 <li className='mt-3 text-gray-700'>Provide your <strong>booking reference number</strong> and details of your request.</li>
-                <li className='mt-3 text-gray-700'>Refund requests will be reviewed and processed within [<strong>X business days</strong>].</li>
+                <li className='mt-3 text-gray-700'>Refund requests will be reviewed and processed within [<strong>24 hours</strong>].</li>
             </ul>
             <h1 className='mt-15 text-gray-900 font-bold text-3xl'>5. Refund Method</h1>
             <ul className='list-disc ml-10 mt-4 text-gray-700'>
@@ -40,14 +40,13 @@ const refund = () => {
                     <p className='mt-3 text-gray-700'>If approved, refunds will be issued to the original payment method used at the time of booking.</p>
                 </li>
                 <li>
-                    <p className='mt-3 text-gray-700'>Please allow [<strong>X business days</strong>] for the refund to reflect in your account, depending on your bank or payment provider.</p>
+                    <p className='mt-3 text-gray-700'>Please allow [<strong>24 hours</strong>] for the refund to reflect in your account, depending on your bank or payment provider.</p>
                 </li>
             </ul>
             <h1 className='mt-15 text-gray-700 font-bold text-2xl'>Contact Us</h1>
             <p className='mt-3 text-gray-700'>If you have questions about this policy or need help with a data removal request, contact us at:</p>
             <p className='mt-3 text-gray-700'>📧 Email: [info@drivecheckr.com]</p>
-            <p className='mt-10'>If you want, I can now <strong>combine this Refund Policy with your Terms & Conditions</strong> so it’s all in one clean, legally aligned document.</p>
-            <p className='mt-3 text-gray-700'>That would make your website’s legal pages more streamlined and trustworthy.</p>
+            <br /><br /><br />
         </div>
     </div>
   )

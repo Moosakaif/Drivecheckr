@@ -6,7 +6,7 @@ const terms = () => {
         <h1 className="text-5xl mb-15 text-blue-700">Terms and Conditions</h1>
         <div className='text-2xl'>
           <td className='text-gray-700'><strong className='text-black'>Last Updated</strong>: [13-Aug-2025]</td>
-          <p className='text-gray-700 mt-8'>Welcome to [<strong>Drive Chackr</strong>]. These Terms and Conditions govern your use of our website, services, and any reports or documentation we provide. By accessing our website or booking our services, you agree to be bound by these Terms. Please read them carefully before proceeding.</p>
+          <p className='text-gray-700 mt-8'>Welcome to [<strong>Drive Checkr</strong>]. These Terms and Conditions govern your use of our website, services, and any reports or documentation we provide. By accessing our website or booking our services, you agree to be bound by these Terms. Please read them carefully before proceeding.</p>
           <h1 className='mt-8 text-3xl'><strong>1. Services Provided</strong></h1>
           <p className='mt-5 text-gray-700'>1.1 <strong>Nature of Service</strong></p>
           <p className='mt-5 text-gray-700'>We provide vehicle inspection services, including visual checks, mechanical assessments, and written reports. Our inspections are based on the condition of the vehicle at the time of examination.</p>
@@ -39,19 +39,19 @@ const terms = () => {
           <h1 className='mt-10 text-3xl font-bold'>5. Website Use</h1>
           <h1 className='mt-8 text-gray-700'>5.1 <strong>Intellectual Property</strong></h1>
           <p className='mt-2 text-gray-700'>All text, graphics, images, and content on our website are the property of [Drive Checkr] and may not be copied or reproduced without permission.</p>
-          <h1 className='mt-8 text-gray-700'>5.2 Prohibited Use</h1>
+          <h1 className='mt-8 text-gray-700'>5.2 <strong>Prohibited Use</strong></h1>
           <p className='mt-2 text-gray-700'>You must not use our website for unlawful purposes, including attempting to gain unauthorized access to our systems.</p>
           <h1 className='mt-10 text-3xl font-bold'>6. Privacy</h1>
           <p className='mt-2 text-gray-700'>We respect your privacy. Please refer to our Privacy Policy for details on how we collect, use, and protect your information.</p>
-          <h1 className='mt-10 text-3xl font-bold'>7. Governing Law</h1>
-          <p className='mt-2 text-gray-700'>These Terms are governed by and construed in accordance with the laws of [Your Country/State]. Any disputes will be subject to the exclusive jurisdiction of the courts in [Your Location].</p>
+          {/* <h1 className='mt-10 text-3xl font-bold'>7. Governing Law</h1>
+          <p className='mt-2 text-gray-700'>These Terms are governed by and construed in accordance with the laws of [Your Country/State]. Any disputes will be subject to the exclusive jurisdiction of the courts in [Your Location].</p> */}
           <h1 className='mt-10 text-3xl font-bold'>8. Changes to Terms</h1>
           <p className='mt-2 text-gray-700'>We may update these Terms from time to time without prior notice. Continued use of our website or services after changes are posted constitutes acceptance of the new Terms.</p>
           <h1 className='mt-10 text-2xl font-bold'>Contact Us</h1>
           <p className='mt-2 text-gray-700'>If you have any questions about these Terms and Conditions, please contact us at:</p>
           <p className='mt-2 text-gray-700'>Email: [info@drivecheckr.com]</p>
-          <h1 className='mt-10 text-gray-700'>If you want, I can also <strong>make a shorter, more customer-friendly version</strong> for your homepage while keeping this longer one linked for legal protection — so customers aren’t overwhelmed.</h1>
-          <p className='mt-10 text-gray-700'>Do you want me to prepare that next?</p>
+          <br /><br /><br />
+          <br /><br /><br />
         </div>
     </div>
   )

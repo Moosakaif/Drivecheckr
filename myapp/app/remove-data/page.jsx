@@ -24,8 +24,8 @@ const removeYourData = () => {
             </ol>
             <h1 className='mt-15 text-gray-700 font-bold text-3xl'>3. Processing Time</h1>
             <ol className='list-disc ml-10 mt-4 text-gray-700'>
-              <li className='mt-3 text-gray-700'>We aim to respond to your request within <strong>[X] business days</strong>.</li>
-              <li className='mt-3 text-gray-700'>Once verified, your data will be permanently deleted from our systems within <strong>[X] business days</strong>, unless we are legally required to retain it.</li>
+              <li className='mt-3 text-gray-700'>We aim to respond to your request within <strong>[24] business days</strong>.</li>
+              <li className='mt-3 text-gray-700'>Once verified, your data will be permanently deleted from our systems within <strong>[24] business days</strong>, unless we are legally required to retain it.</li>
             </ol>
             <h1 className='mt-15 text-gray-700 font-bold text-3xl'>4. Legal Exceptions</h1>
             <p className='mt-3 text-gray-700'>We may be unable to delete certain data if:</p>
@@ -38,7 +38,7 @@ const removeYourData = () => {
             <h1 className='mt-15 text-gray-700 font-bold text-2xl'>Contact Us</h1>
             <p className='mt-3 text-gray-700'>If you have questions about this policy or need help with a data removal request, contact us at:</p>
             <p className='mt-3 text-gray-700'>📧 Email: [info@drivecheckr.com]</p>
-            <p className='mt-10'>If you want, I can <strong>merge this into your Privacy & Security Policy</strong> so your site has <strong>one complete GDPR/Privacy-compliant page</strong> instead of three separate ones.</p>
+            <br /><br />
         </div>
     </div>
   )

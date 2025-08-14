@@ -44,8 +44,8 @@ const security = () => {
                 <h1 className='font-bold  mt-10 text-2xl'>Contact Us</h1>
                 <p className='text-gray-700 mt-2'>If you have any questions about our Security Policy, you can reach us at:</p>
                 <p className='text-gray-700 mt-2'>📧 Email: [info@drivecheckr.com]</p>
-                <p className='text-gray-700 mt-2'>If you want, I can also <strong>combine this with a Privacy Policy</strong> so that your site has one clear, professional "<strong>Privacy & Security</strong>" page instead of two separate ones — which is common for inspection companies.</p>
-                <p className='text-gray-700 mt-2'>I can prepare that in a clean, SEO-friendly format so it looks professional on your site.</p>
+                {/* <p className='text-gray-700 mt-6'>If you want, I can also <strong>combine this with a Privacy Policy</strong> so that your site has one clear, professional "<strong>Privacy & Security</strong>" page instead of two separate ones — which is common for inspection companies.</p> */}
+                <br /><br /><br />
         </div>
     </div>
   )
