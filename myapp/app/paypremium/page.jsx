@@ -17,7 +17,7 @@ export default function Home() {
         'service_uvlb4sv',
         'template_j0iwhrm',
         formRef.current,
-        'f-OZlQIt2bm7DnrmH'
+        'hdv6F9Qvh4e3mhvvd'
       )
       .then(
         (result) => {
@@ -143,7 +143,7 @@ export default function Home() {
               {showPayment && (
                 <div className="mt-6 text-center">
                   <a
-                    href="https://www.paypal.com/ncp/payment/2C5UAGX572W3A" // 🔁 Replace with your actual link
+                    href="https://www.paypal.com/ncp/payment/3JP8R6JKNUTEN" // 🔁 Replace with your actual link
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700"
