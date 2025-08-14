@@ -31,7 +31,9 @@ const terms = () => {
           </ul>
           <h1 className='mt-8 text-gray-700'>3.3 <strong>Third-Party Use</strong></h1>
           <p className='mt-5 text-gray-700'>Our reports are prepared for the customer who booked the inspection and should not be relied upon by third parties without written consent.</p>
-          <h1 className='mt-5 text-gray-700'></h1>
+          <h1 className='mt-8 font-bold'>4. Customer Responsibilities</h1>
+          <h1 className='mt-5 text-gray-700'>4.1 <strong>Access to Vehicle</strong></h1>
+          <p className='mt-8 text-gray-700'>It is your responsibility to ensure the vehicle is available and accessible at the scheduled time and location.</p>
         </div>
     </div>
   )
