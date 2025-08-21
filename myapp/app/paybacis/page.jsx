@@ -14,7 +14,7 @@ export default function Home() {
     emailjs
       .sendForm(
         'service_9wi60w9',     // ✅ Your EmailJS Service ID
-        'template_emg1p6p',    // ✅ Your EmailJS Template ID
+        'template_cu7vlfe',    // ✅ Your EmailJS Template ID
         formRef.current,
         '2sYA1cYobgfa9XMO_'    // ✅ Your EmailJS Public Key
       )
