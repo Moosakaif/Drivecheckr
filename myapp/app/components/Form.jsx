@@ -115,7 +115,9 @@ export default function Form() {
               )}
             </div>
           </div>
-
+              <div className='w-full max-w-lg flex justify-center'>
+                <img src="./images/car-inspection-of-the-station-detects-faults-draws-up-a-checklist-of-all-breakdowns-repair-and-analysis-transport-in-flat-cartoon-illustration-vector-removebg-preview.png" alt="" className='w-full h-auto' />
+              </div>
           {/* Right Section remains unchanged */}
           {/* <div className="md:w-2/5">
             <div className="bg-white p-6 border rounded">
