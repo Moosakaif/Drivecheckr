@@ -13,10 +13,10 @@ export default function Home() {
 
     emailjs
       .sendForm(
-        'service_9eni325',     // ✅ Your EmailJS Service ID
-        'template_2vmr715',    // ✅ Your EmailJS Template ID
+        'service_xd6n37r',     // ✅ Your EmailJS Service ID
+        'template_cu7vlfe',    // ✅ Your EmailJS Template ID
         formRef.current,
-        '1pRGwgoteAt_EtMEv'    // ✅ Your EmailJS Public Key
+        'k3B55Mf9wXRT4wOU2'    // ✅ Your EmailJS Public Key
       )
       .then(
         () => {
