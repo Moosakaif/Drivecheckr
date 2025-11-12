@@ -21,7 +21,7 @@ export default function Home() {
       .then(
         () => {
           // Redirect to PayPal after success
-          window.location.href = 'https://www.paypal.com/ncp/payment/3JP8R6JKNUTEN';
+          window.location.href = 'https://www.paypal.com/ncp/payment/8Y856S6XKCM3S';
         },
         (error) => {
           console.error('Email sending failed:', error.text);
