@@ -6,6 +6,7 @@ import Faq from "./components/Faq";
 import Content from "./components/Content";
 import React from "react";
 import Packages from "./components/packages";
+import World from "./components/World";
 
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
       {/* <Navbar/> */}
       <Hero/>
       <Packages/>
+      <World/>
       <Faq/>
       <Content/>
       {/* <Footer/> */}
