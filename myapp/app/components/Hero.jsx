@@ -41,7 +41,7 @@ function Hero() {
       />
       <button
         type="submit"
-        className="bg-white text-blue-700 font-bold px-7 py-4 rounded hover:bg-blue-100 transition"
+        className="bg-blue-500 text-white font-bold px-7 py-4 rounded hover:bg-blue-600 transition"
       >
         Start Now
       </button>

@@ -38,7 +38,7 @@ export default function Form() {
       <div className="container mx-auto px-4 py-6 max-w-6xl">
         <div className="flex flex-col md:flex-row gap-6">
           {/* Left Section */}
-          <div className="min-h-screen bg-gray-100 p-6">
+          <div className="min-h-screen bg-white p-6">
             <div className="max-w-xl mx-auto bg-white p-6 rounded shadow">
               <h2 className="text-xl font-bold mb-4">Fill The Form To Proceed.....</h2>
 
@@ -94,7 +94,7 @@ export default function Form() {
   />     */}
                 <button
                   type="submit"
-                  className="w-full bg-red-600 text-white py-2 rounded hover:bg-red-700"
+                  className="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700"
                 >
                   Send Report
                 </button>
