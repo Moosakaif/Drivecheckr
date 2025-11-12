@@ -34,7 +34,7 @@ export default function Form() {
   };
 
   return (
-    <div className="bg-gray-100 min-h-screen">
+    <div className="bg-white min-h-screen">
       <div className="container mx-auto px-4 py-6 max-w-6xl">
         <div className="flex flex-col md:flex-row gap-6">
           {/* Left Section */}
