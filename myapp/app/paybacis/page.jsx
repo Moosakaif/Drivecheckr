@@ -21,7 +21,7 @@ export default function Home() {
       .then(
         () => {
           // ✅ Redirect to PayPal after success
-          window.location.href = 'https://www.paypal.me/itskumail?country.x=CA&locale.x=en_US';
+          window.location.href = 'https://buy.stripe.com/4gM3cv3sPgPv4Vt7Ev28801';
         },
         (error) => {
           console.error('Email sending failed:', error.text);
