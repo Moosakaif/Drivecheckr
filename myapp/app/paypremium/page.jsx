@@ -21,7 +21,7 @@ export default function Home() {
       .then(
         () => {
           // Redirect to PayPal after success
-          window.location.href = 'https://buy.stripe.com/7sY7sL0gDdDj0Fd0c328802';
+          window.location.href = 'https://pay.gocardless.com/BRT00048DY6F09T';
         },
         (error) => {
           console.error('Email sending failed:', error.text);
