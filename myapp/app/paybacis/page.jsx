@@ -21,7 +21,7 @@ export default function Home() {
       .then(
         () => {
           // ✅ Redirect to PayPal after success
-          window.location.href = 'https://pay.gocardless.com/BRT00048DW4Y5CC';
+          window.location.href = 'https://checkout.revolut.com/payment-link/6dc9ba23-5fcf-48f6-9069-1d0678552ec8';
         },
         (error) => {
           console.error('Email sending failed:', error.text);
