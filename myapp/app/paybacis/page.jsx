@@ -21,7 +21,7 @@ export default function Home() {
       .then(
         () => {
           // ✅ Redirect to PayPal after success
-          window.location.href = 'https://checkout.revolut.com/payment-link/6dc9ba23-5fcf-48f6-9069-1d0678552ec8';
+          window.location.href = 'https://payment-links.mollie.com/payment/umTrdJKW5xeei6TMa9Ahc';
         },
         (error) => {
           console.error('Email sending failed:', error.text);
